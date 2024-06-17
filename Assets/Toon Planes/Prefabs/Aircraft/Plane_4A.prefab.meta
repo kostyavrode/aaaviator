@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9030572784f44a78aa4602c4079b415
+labels:
+- aircraft
+- airliner
+- jet
+- jumbo
+- plane
+- turbofan
+timeCreated: 1491330212
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

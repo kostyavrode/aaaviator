@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 245ac0eaa512749248390f2de3cd2d08
+timeCreated: 1489677283
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube.001
+    100002: Cube.002
+    100004: Cube.003
+    100006: Cube.004
+    100008: //RootNode
+    100010: Plane_1A
+    100012: Plane_1A.001
+    100014: Aileron_1A_F.L
+    100016: Aileron_1A_F.R
+    100018: Elevator_1A_R.L
+    100020: Elevator_1A_R.R
+    100022: Flap_1A_F.L
+    100024: Flap_1A_F.R
+    100026: Fuselage_1A
+    100028: Landing_Gear_1A_F.L
+    100030: Landing_Gear_1A_F.R
+    100032: Landing_Gear_1A_R
+    100034: Propeller_1A
+    100036: Rudder_1A
+    100038: Wheel_1A_F.L
+    100040: Wheel_1A_F.R
+    100042: Wheel_1A_R
+    100044: Livery_1A
+    100046: Aileron_1A_F.L.001
+    400000: Cube.001
+    400002: Cube.002
+    400004: Cube.003
+    400006: Cube.004
+    400008: //RootNode
+    400010: Plane_1A
+    400012: Plane_1A.001
+    400014: Aileron_1A_F.L
+    400016: Aileron_1A_F.R
+    400018: Elevator_1A_R.L
+    400020: Elevator_1A_R.R
+    400022: Flap_1A_F.L
+    400024: Flap_1A_F.R
+    400026: Fuselage_1A
+    400028: Landing_Gear_1A_F.L
+    400030: Landing_Gear_1A_F.R
+    400032: Landing_Gear_1A_R
+    400034: Propeller_1A
+    400036: Rudder_1A
+    400038: Wheel_1A_F.L
+    400040: Wheel_1A_F.R
+    400042: Wheel_1A_R
+    400044: Livery_1A
+    400046: Aileron_1A_F.L.001
+    2300000: Cube.001
+    2300002: Cube.002
+    2300004: Cube.003
+    2300006: Cube.004
+    2300008: //RootNode
+    2300010: Plane_1A
+    2300012: Plane_1A.001
+    2300014: Aileron_1A_F.L
+    2300016: Aileron_1A_F.R
+    2300018: Elevator_1A_R.L
+    2300020: Elevator_1A_R.R
+    2300022: Flap_1A_F.L
+    2300024: Flap_1A_F.R
+    2300026: Fuselage_1A
+    2300028: Landing_Gear_1A_F.L
+    2300030: Landing_Gear_1A_F.R
+    2300032: Landing_Gear_1A_R
+    2300034: Propeller_1A
+    2300036: Rudder_1A
+    2300038: Wheel_1A_F.L
+    2300040: Wheel_1A_F.R
+    2300042: Wheel_1A_R
+    2300044: Livery_1A
+    2300046: Aileron_1A_F.L.001
+    3300000: Cube.001
+    3300002: Cube.002
+    3300004: Cube.003
+    3300006: Cube.004
+    3300008: //RootNode
+    3300010: Plane_1A
+    3300012: Plane_1A.001
+    3300014: Aileron_1A_F.L
+    3300016: Aileron_1A_F.R
+    3300018: Elevator_1A_R.L
+    3300020: Elevator_1A_R.R
+    3300022: Flap_1A_F.L
+    3300024: Flap_1A_F.R
+    3300026: Fuselage_1A
+    3300028: Landing_Gear_1A_F.L
+    3300030: Landing_Gear_1A_F.R
+    3300032: Landing_Gear_1A_R
+    3300034: Propeller_1A
+    3300036: Rudder_1A
+    3300038: Wheel_1A_F.L
+    3300040: Wheel_1A_F.R
+    3300042: Wheel_1A_R
+    3300044: Livery_1A
+    3300046: Aileron_1A_F.L.001
+    4300000: Plane_1A
+    4300002: Cube.004
+    4300004: Cube.003
+    4300006: Cube.002
+    4300008: Cube.001
+    4300010: Plane_1A.001
+    4300012: Landing_Gear_1A_F.L
+    4300014: Wheel_1A_F.L
+    4300016: Landing_Gear_1A_F.R
+    4300018: Wheel_1A_F.R
+    4300020: Fuselage_1A
+    4300022: Propeller_1A
+    4300024: Elevator_1A_R.R
+    4300026: Elevator_1A_R.L
+    4300028: Rudder_1A
+    4300030: Aileron_1A_F.R
+    4300032: Aileron_1A_F.L
+    4300034: Flap_1A_F.R
+    4300036: Flap_1A_F.L
+    4300038: Landing_Gear_1A_R
+    4300040: Wheel_1A_R
+    4300042: Livery_1A
+    4300044: Aileron_1A_F.L.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

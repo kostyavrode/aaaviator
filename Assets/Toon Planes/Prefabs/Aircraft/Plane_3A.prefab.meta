@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 076f04eb5747d475e88d543208935e82
+labels:
+- aircraft
+- helicopter
+- hybrid
+- plane
+- propeller
+- rotor
+timeCreated: 1491330198
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 85cb3bb06d6e89c4d92f246d112c7bc7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aileron_1B_F.L
+    100002: Aileron_1B_F.R
+    100004: Elevator_1B_R.L
+    100006: Elevator_1B_R.R
+    100008: Flap_1B_F.L
+    100010: Flap_1B_F.R
+    100012: Landing_Gear_1B_F.L
+    100014: Landing_Gear_1B_F.R
+    100016: Landing_Gear_1B_R
+    100018: //RootNode
+    100020: Propeller_1B
+    100022: Rudder_1B
+    100024: Wheel_1B_F.L
+    100026: Wheel_1B_F.R
+    100028: Wheel_1B_R
+    100030: Fuselage_Plane_1B
+    400000: Aileron_1B_F.L
+    400002: Aileron_1B_F.R
+    400004: Elevator_1B_R.L
+    400006: Elevator_1B_R.R
+    400008: Flap_1B_F.L
+    400010: Flap_1B_F.R
+    400012: Landing_Gear_1B_F.L
+    400014: Landing_Gear_1B_F.R
+    400016: Landing_Gear_1B_R
+    400018: //RootNode
+    400020: Propeller_1B
+    400022: Rudder_1B
+    400024: Wheel_1B_F.L
+    400026: Wheel_1B_F.R
+    400028: Wheel_1B_R
+    400030: Fuselage_Plane_1B
+    2100000: Plane_1B_D
+    2300000: Aileron_1B_F.L
+    2300002: Aileron_1B_F.R
+    2300004: Elevator_1B_R.L
+    2300006: Elevator_1B_R.R
+    2300008: Flap_1B_F.L
+    2300010: Flap_1B_F.R
+    2300012: Landing_Gear_1B_F.L
+    2300014: Landing_Gear_1B_F.R
+    2300016: Landing_Gear_1B_R
+    2300018: //RootNode
+    2300020: Propeller_1B
+    2300022: Rudder_1B
+    2300024: Wheel_1B_F.L
+    2300026: Wheel_1B_F.R
+    2300028: Wheel_1B_R
+    2300030: Fuselage_Plane_1B
+    3300000: Aileron_1B_F.L
+    3300002: Aileron_1B_F.R
+    3300004: Elevator_1B_R.L
+    3300006: Elevator_1B_R.R
+    3300008: Flap_1B_F.L
+    3300010: Flap_1B_F.R
+    3300012: Landing_Gear_1B_F.L
+    3300014: Landing_Gear_1B_F.R
+    3300016: Landing_Gear_1B_R
+    3300018: //RootNode
+    3300020: Propeller_1B
+    3300022: Rudder_1B
+    3300024: Wheel_1B_F.L
+    3300026: Wheel_1B_F.R
+    3300028: Wheel_1B_R
+    3300030: Fuselage_Plane_1B
+    4300000: Fuselage_Plane_1B
+    4300002: Landing_Gear_1B_F.L
+    4300004: Wheel_1B_F.L
+    4300006: Landing_Gear_1B_F.R
+    4300008: Wheel_1B_F.R
+    4300010: Aileron_1B_F.R
+    4300012: Propeller_1B
+    4300014: Elevator_1B_R.R
+    4300016: Elevator_1B_R.L
+    4300018: Rudder_1B
+    4300020: Aileron_1B_F.L
+    4300022: Flap_1B_F.R
+    4300024: Flap_1B_F.L
+    4300026: Landing_Gear_1B_R
+    4300028: Wheel_1B_R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane_1B_D
+    second: {fileID: 2100000, guid: 4fc7ff912d604c0489f9b935e75f38d4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

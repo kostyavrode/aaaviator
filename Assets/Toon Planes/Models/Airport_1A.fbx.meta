@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: df696bce346957545b0d4519be01c10e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Airport_1A
+    100004: Control_Tower_1B_Addon.001
+    100006: Control_Tower_1A_Door.R.001
+    100008: Control_Tower_1A_Door.R.002
+    100010: Control_Tower_1A_Door.R.003
+    100012: Control_Tower_1A_Door.R.004
+    100014: Letters.002
+    100016: Letters.001
+    100018: Airport_1A_Addon
+    100020: Airport_1A_Door_1
+    100022: Airport_1A_Door_2
+    100024: Airport_1A_Door_3
+    100026: Airport_1A_Door_4
+    100028: Airport_1A_Door_5
+    100030: Airport_1A_Door_6
+    100032: Airport_1A_Door_7
+    100034: Airport_1A_Door_8
+    100036: Luggage_Pack_1A
+    100038: Luggage_Pack_1B
+    100040: Luggage_Pack_1C
+    100042: Luggage_Pack_1D
+    100044: Truck_2C_Addon
+    100046: Truck_2C_Addon_Wheel_F.L
+    100048: Truck_2C_Addon_Wheel_F.R
+    100050: Truck_2C_Addon_Wheel_R.L
+    100052: Truck_2C_Addon_Wheel_R.R
+    400000: //RootNode
+    400002: Airport_1A
+    400004: Control_Tower_1B_Addon.001
+    400006: Control_Tower_1A_Door.R.001
+    400008: Control_Tower_1A_Door.R.002
+    400010: Control_Tower_1A_Door.R.003
+    400012: Control_Tower_1A_Door.R.004
+    400014: Letters.002
+    400016: Letters.001
+    400018: Airport_1A_Addon
+    400020: Airport_1A_Door_1
+    400022: Airport_1A_Door_2
+    400024: Airport_1A_Door_3
+    400026: Airport_1A_Door_4
+    400028: Airport_1A_Door_5
+    400030: Airport_1A_Door_6
+    400032: Airport_1A_Door_7
+    400034: Airport_1A_Door_8
+    400036: Luggage_Pack_1A
+    400038: Luggage_Pack_1B
+    400040: Luggage_Pack_1C
+    400042: Luggage_Pack_1D
+    400044: Truck_2C_Addon
+    400046: Truck_2C_Addon_Wheel_F.L
+    400048: Truck_2C_Addon_Wheel_F.R
+    400050: Truck_2C_Addon_Wheel_R.L
+    400052: Truck_2C_Addon_Wheel_R.R
+    2100000: Airport_1A_D
+    2300000: Airport_1A
+    2300002: Control_Tower_1B_Addon.001
+    2300004: Control_Tower_1A_Door.R.001
+    2300006: Control_Tower_1A_Door.R.002
+    2300008: Control_Tower_1A_Door.R.003
+    2300010: Control_Tower_1A_Door.R.004
+    2300012: Letters.002
+    2300014: Letters.001
+    2300016: //RootNode
+    2300018: Airport_1A_Addon
+    2300020: Airport_1A_Door_1
+    2300022: Airport_1A_Door_2
+    2300024: Airport_1A_Door_3
+    2300026: Airport_1A_Door_4
+    2300028: Airport_1A_Door_5
+    2300030: Airport_1A_Door_6
+    2300032: Airport_1A_Door_7
+    2300034: Airport_1A_Door_8
+    2300036: Luggage_Pack_1A
+    2300038: Luggage_Pack_1B
+    2300040: Luggage_Pack_1C
+    2300042: Luggage_Pack_1D
+    2300044: Truck_2C_Addon
+    2300046: Truck_2C_Addon_Wheel_F.L
+    2300048: Truck_2C_Addon_Wheel_F.R
+    2300050: Truck_2C_Addon_Wheel_R.L
+    2300052: Truck_2C_Addon_Wheel_R.R
+    3300000: Airport_1A
+    3300002: Control_Tower_1B_Addon.001
+    3300004: Control_Tower_1A_Door.R.001
+    3300006: Control_Tower_1A_Door.R.002
+    3300008: Control_Tower_1A_Door.R.003
+    3300010: Control_Tower_1A_Door.R.004
+    3300012: Letters.002
+    3300014: Letters.001
+    3300016: //RootNode
+    3300018: Airport_1A_Addon
+    3300020: Airport_1A_Door_1
+    3300022: Airport_1A_Door_2
+    3300024: Airport_1A_Door_3
+    3300026: Airport_1A_Door_4
+    3300028: Airport_1A_Door_5
+    3300030: Airport_1A_Door_6
+    3300032: Airport_1A_Door_7
+    3300034: Airport_1A_Door_8
+    3300036: Luggage_Pack_1A
+    3300038: Luggage_Pack_1B
+    3300040: Luggage_Pack_1C
+    3300042: Luggage_Pack_1D
+    3300044: Truck_2C_Addon
+    3300046: Truck_2C_Addon_Wheel_F.L
+    3300048: Truck_2C_Addon_Wheel_F.R
+    3300050: Truck_2C_Addon_Wheel_R.L
+    3300052: Truck_2C_Addon_Wheel_R.R
+    4300000: Airport_1A
+    4300002: Control_Tower_1B_Addon.001
+    4300004: Letters.002
+    4300006: Control_Tower_1A_Door.R.004
+    4300008: Control_Tower_1A_Door.R.003
+    4300010: Control_Tower_1A_Door.R.002
+    4300012: Control_Tower_1A_Door.R.001
+    4300014: Letters.001
+    4300016: Airport_1A_Door_5
+    4300018: Airport_1A_Door_8
+    4300020: Airport_1A_Door_6
+    4300022: Airport_1A_Door_7
+    4300024: Airport_1A_Door_3
+    4300026: Airport_1A_Door_2
+    4300028: Airport_1A_Door_4
+    4300030: Airport_1A_Addon
+    4300032: Airport_1A_Door_1
+    4300034: Luggage_Pack_1D
+    4300036: Luggage_Pack_1C
+    4300038: Luggage_Pack_1B
+    4300040: Luggage_Pack_1A
+    4300042: Truck_2C_Addon
+    4300044: Truck_2C_Addon_Wheel_F.L
+    4300046: Truck_2C_Addon_Wheel_F.R
+    4300048: Truck_2C_Addon_Wheel_R.L
+    4300050: Truck_2C_Addon_Wheel_R.R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Airport_1A_D
+    second: {fileID: 2100000, guid: 0e7f5226812e18848a5743d39a3379a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Truck_2A_D
+    second: {fileID: 2100000, guid: d1dbfe670c1e9414d972349e1037fc6d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

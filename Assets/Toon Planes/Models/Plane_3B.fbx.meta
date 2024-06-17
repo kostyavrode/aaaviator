@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 5bd85c75d23fe40039e6293e73e4c28c
+timeCreated: 1490572267
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Engine_3B_L
+    100002: Engine_3B_R
+    100004: Flap_3B_L
+    100006: Flap_3B_R
+    100008: Fuselage_Plane_3B
+    100010: Hatch_3B_F.L
+    100012: Hatch_3B_F.R
+    100014: Hatch_3B_R.L
+    100016: Hatch_3B_R.R
+    100018: Landing_Gear_3B_F
+    100020: Landing_Gear_3B_R.L
+    100022: Landing_Gear_3B_R.R
+    100024: //RootNode
+    100026: Rotor_3A_L.001
+    100028: Rotor_3A_R.001
+    100030: Text
+    100032: Wheel_3B_F.L
+    100034: Wheel_3B_F.R
+    100036: Wheel_3B_R.L
+    100038: Wheel_3B_R.R
+    100040: Rotor_3B_L
+    100042: Rotor_3B_R
+    100044: Livery_3B
+    400000: Engine_3B_L
+    400002: Engine_3B_R
+    400004: Flap_3B_L
+    400006: Flap_3B_R
+    400008: Fuselage_Plane_3B
+    400010: Hatch_3B_F.L
+    400012: Hatch_3B_F.R
+    400014: Hatch_3B_R.L
+    400016: Hatch_3B_R.R
+    400018: Landing_Gear_3B_F
+    400020: Landing_Gear_3B_R.L
+    400022: Landing_Gear_3B_R.R
+    400024: //RootNode
+    400026: Rotor_3A_L.001
+    400028: Rotor_3A_R.001
+    400030: Text
+    400032: Wheel_3B_F.L
+    400034: Wheel_3B_F.R
+    400036: Wheel_3B_R.L
+    400038: Wheel_3B_R.R
+    400040: Rotor_3B_L
+    400042: Rotor_3B_R
+    400044: Livery_3B
+    2300000: Engine_3B_L
+    2300002: Engine_3B_R
+    2300004: Flap_3B_L
+    2300006: Flap_3B_R
+    2300008: Fuselage_Plane_3B
+    2300010: Hatch_3B_F.L
+    2300012: Hatch_3B_F.R
+    2300014: Hatch_3B_R.L
+    2300016: Hatch_3B_R.R
+    2300018: Landing_Gear_3B_F
+    2300020: Landing_Gear_3B_R.L
+    2300022: Landing_Gear_3B_R.R
+    2300024: Rotor_3A_L.001
+    2300026: Rotor_3A_R.001
+    2300028: Text
+    2300030: Wheel_3B_F.L
+    2300032: Wheel_3B_F.R
+    2300034: Wheel_3B_R.L
+    2300036: Wheel_3B_R.R
+    2300038: Rotor_3B_L
+    2300040: Rotor_3B_R
+    2300042: Livery_3B
+    3300000: Engine_3B_L
+    3300002: Engine_3B_R
+    3300004: Flap_3B_L
+    3300006: Flap_3B_R
+    3300008: Fuselage_Plane_3B
+    3300010: Hatch_3B_F.L
+    3300012: Hatch_3B_F.R
+    3300014: Hatch_3B_R.L
+    3300016: Hatch_3B_R.R
+    3300018: Landing_Gear_3B_F
+    3300020: Landing_Gear_3B_R.L
+    3300022: Landing_Gear_3B_R.R
+    3300024: Rotor_3A_L.001
+    3300026: Rotor_3A_R.001
+    3300028: Text
+    3300030: Wheel_3B_F.L
+    3300032: Wheel_3B_F.R
+    3300034: Wheel_3B_R.L
+    3300036: Wheel_3B_R.R
+    3300038: Rotor_3B_L
+    3300040: Rotor_3B_R
+    3300042: Livery_3B
+    4300000: Text
+    4300002: Engine_3B_L
+    4300004: Rotor_3A_L.001
+    4300006: Fuselage_Plane_3B
+    4300008: Engine_3B_R
+    4300010: Rotor_3A_R.001
+    4300012: Landing_Gear_3B_R.L
+    4300014: Wheel_3B_R.L
+    4300016: Landing_Gear_3B_F
+    4300018: Wheel_3B_F.R
+    4300020: Wheel_3B_F.L
+    4300022: Hatch_3B_R.L
+    4300024: Flap_3B_L
+    4300026: Flap_3B_R
+    4300028: Landing_Gear_3B_R.R
+    4300030: Wheel_3B_R.R
+    4300032: Hatch_3B_R.R
+    4300034: Hatch_3B_F.L
+    4300036: Hatch_3B_F.R
+    4300038: Rotor_3B_L
+    4300040: Rotor_3B_R
+    4300042: Livery_3B
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
